@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+
+  max-width: 800px;
+  margin: 25px auto;
+  text-align: center;
+}
+table {
+  max-width: 100%;
+  margin: 0 auto;
+}
